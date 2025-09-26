@@ -1,1 +1,3 @@
 get data from user requiring self-information
+After that convert them into, 
+archive file then send it to database
